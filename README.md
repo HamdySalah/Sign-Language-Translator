@@ -27,11 +27,6 @@ Table of Content
   --------------
 - what are you doin?
 ![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/what_are_you_doing.png)
-- Really
-![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Really.png)
-- Expert
-![](https://github.com/shnooo0/Sign_Langauage_with_mediapipe/blob/main/Wow%2CExpert.png)
-
 
 # technologys and tools
 - python
